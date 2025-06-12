@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const CourseCard = ({ course }) => {
     const { currency, calculateRating } = useContext(AppContext)
     return (
-        <Link to={'course/' + course._id} onClick={() => onscroll(0, 0)} className='border border-gray-500/30 pb-6 overflow-hidden rounded-lg'>
+        <Link to={`/course-list/course/${course._id}`} onClick={() => window.scrollTo(0, 0)} className='border border-gray-500/30 pb-6 overflow-hidden rounded-lg'>
             <div className='hover:-translate-y-1 transition-all'>
                 <img src={course.courseThumbnail} alt="" />
                 <div className='p-3 text-left '>

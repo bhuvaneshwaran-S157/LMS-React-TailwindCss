@@ -756,5 +756,167 @@ export const dummyCourses = [
         "updatedAt": "2025-01-02T06:56:13.208Z",
         "__v": 1,
         "courseThumbnail": "https://img.youtube.com/vi/WbV3zRgpw_E/maxresdefault.jpg"
-    }
+    },
+    //     {
+    //     "_id": "7f457ac5c9ab47f5a3666f82",
+    //     "courseTitle": "Mastering APIs",
+    //     "courseDescription": "<h2>Learn modern tools</h2><p>Gain hands-on experience with cutting-edge technologies.</p>",
+    //     "coursePrice": 87.04,
+    //     "isPublished": true,
+    //     "discount": 15,
+    //     "courseContent": [
+    //       {
+    //         "chapterId": "chapter1-1",
+    //         "chapterOrder": 1,
+    //         "chapterTitle": "Introduction",
+    //         "chapterContent": [
+    //           {
+    //             "lectureId": "lecture1-1",
+    //             "lectureTitle": "Welcome to the course",
+    //             "lectureDuration": 10,
+    //             "lectureUrl": "https://img.youtube.com/vi/3jZ5vnv-LZc/hqdefault.jpg",
+    //             "isPreviewFree": true,
+    //             "lectureOrder": 1
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "educator": "675ac1512100b91a6d9b8b24",
+    //     "enrolledStudents": [],
+    //     "courseRatings": [],
+    //     "createdAt": "2025-06-13T11:00:00.000Z",
+    //     "updatedAt": "2025-06-14T11:00:00.000Z",
+    //     "__v": 0,
+    //     "courseThumbnail": "https://img.youtube.com/vi/3jZ5vnv-LZc/maxresdefault.jpg"
+    //   },
+    //   {
+    //     "_id": "b2d8a4a118d74e6a963e5db3",
+    //     "courseTitle": "Java for Beginners",
+    //     "courseDescription": "<h2>From zero to hero</h2><p>This course will elevate your skills with practical projects.</p>",
+    //     "coursePrice": 62.28,
+    //     "isPublished": true,
+    //     "discount": 10,
+    //     "courseContent": [
+    //       {
+    //         "chapterId": "chapter2-1",
+    //         "chapterOrder": 1,
+    //         "chapterTitle": "Introduction",
+    //         "chapterContent": [
+    //           {
+    //             "lectureId": "lecture2-1",
+    //             "lectureTitle": "Welcome to the course",
+    //             "lectureDuration": 10,
+    //             "lectureUrl": "https://img.youtube.com/vi/eIrMbAQSU34/hqdefault.jpg",
+    //             "isPreviewFree": true,
+    //             "lectureOrder": 1
+    //           }
+    //         ]
+    //       }
+    //     ],
+    //     "educator": "675ac1512100b91a6d9b8b24",
+    //     "enrolledStudents": [],
+    //     "courseRatings": [],
+    //     "createdAt": "2025-06-13T11:00:00.000Z",
+    //     "updatedAt": "2025-06-14T11:00:00.000Z",
+    //     "__v": 0,
+    //     "courseThumbnail": "https://img.youtube.com/vi/eIrMbAQSU34/maxresdefault.jpg"
+    //   },
+    //   {
+    //   "_id": "c3f9b5b229e85f7b074f6ea4",
+    //   "courseTitle": "React Tutorial for Beginners",
+    //   "courseDescription": "A comprehensive guide to learning React from scratch.",
+    //   "coursePrice": 99.99,
+    //   "isPublished": true,
+    //   "discount": 20,
+    //   "courseContent": [],
+    //   "educator": "786bd262321bc02b7e5c9ca5",
+    //   "enrolledStudents": [],
+    //   "courseRatings": [],
+    //   "createdAt": "2025-06-14T12:00:00.000Z",
+    //   "updatedAt": "2025-06-14T12:00:00.000Z",
+    //   "__v": 0,
+    //   "courseThumbnail": "https://img.youtube.com/vi/SqcY0GlETPk/maxresdefault.jpg"
+    // },
+    // {
+    //   "_id": "d4a0c6c33ad9608c18507fb5",
+    //   "courseTitle": "Node.js Ultimate Beginner’s Guide",
+    //   "courseDescription": "Learn Node.js from the ground up with this easy-to-follow course.",
+    //   "coursePrice": 79.99,
+    //   "isPublished": true,
+    //   "discount": 10,
+    //   "courseContent": [],
+    //   "educator": "897ce373432cd13c8f6d0db6",
+    //   "enrolledStudents": [],
+    //   "courseRatings": [],
+    //   "createdAt": "2025-06-14T13:00:00.000Z",
+    //   "updatedAt": "2025-06-14T13:00:00.000Z",
+    //   "__v": 0,
+    //   "courseThumbnail": "https://img.youtube.com/vi/ENrzD9HAZK4/maxresdefault.jpg"
+    // },
+    // {
+    //   "_id": "e5b1d7d44be0719d296180c6",
+    //   "courseTitle": "Python Full Course for Beginners",
+    //   "courseDescription": "Start your Python programming journey with this complete course.",
+    //   "coursePrice": 89.99,
+    //   "isPublished": true,
+    //   "discount": 15,
+    //   "courseContent": [],
+    //   "educator": "908df484543de24d907e11c7",
+    //   "enrolledStudents": [],
+    //   "courseRatings": [],
+    //   "createdAt": "2025-06-14T14:00:00.000Z",
+    //   "updatedAt": "2025-06-14T14:00:00.000Z",
+    //   "__v": 0,
+    //   "courseThumbnail": "https://img.youtube.com/vi/_uQrJ0TkZlc/maxresdefault.jpg"
+    // },
+    // {
+    //   "_id": "f6c2e8e55cf182ae3a7291d7",
+    //   "courseTitle": "JavaScript Course for Beginners",
+    //   "courseDescription": "The perfect starting point for learning JavaScript and web development.",
+    //   "coursePrice": 69.99,
+    //   "isPublished": true,
+    //   "discount": 0,
+    //   "courseContent": [],
+    //   "educator": "a19000f5654ef35e018f22d8",
+    //   "enrolledStudents": [],
+    //   "courseRatings": [],
+    //   "createdAt": "2025-06-14T15:00:00.000Z",
+    //   "updatedAt": "2025-06-14T15:00:00.000Z",
+    //   "__v": 0,
+    //   "courseThumbnail": "https://img.youtube.com/vi/W6NZfCO5SIk/maxresdefault.jpg"
+    // },
+    // {
+    //   "_id": "g7d3f9f66dg293bf4b83a2e8",
+    //   "courseTitle": "Web Development for Absolute Beginners",
+    //   "courseDescription": "Get started with web development with this beginner-friendly course.",
+    //   "coursePrice": 59.99,
+    //   "isPublished": true,
+    //   "discount": 5,
+    //   "courseContent": [],
+    //   "educator": "b2a111067601046f129033e9",
+    //   "enrolledStudents": [],
+    //   "courseRatings": [],
+    //   "createdAt": "2025-06-14T16:00:00.000Z",
+    //   "updatedAt": "2025-06-14T16:00:00.000Z",
+    //   "__v": 0,
+    //   "courseThumbnail": "https://img.youtube.com/vi/ysEN5RaKOlA/maxresdefault.jpg"
+    // },
+    // {
+    //   "_id": "h8e4g0g77eh394cg5c94b3f9",
+    //   "courseTitle": "HTML & CSS Crash Course",
+    //   "courseDescription": "Master the fundamentals of web design with this fast-paced HTML & CSS course.",
+    //   "coursePrice": 49.99,
+    //   "isPublished": true,
+    //   "discount": 10,
+    //   "courseContent": [],
+    //   "educator": "c3b222178712157g23a144fa",
+    //   "enrolledStudents": [],
+    //   "courseRatings": [],
+    //   "createdAt": "2025-06-14T17:00:00.000Z",
+    //   "updatedAt": "2025-06-14T17:00:00.000Z",
+    //   "__v": 0,
+    //   "courseThumbnail": "https://img.youtube.com/vi/mU6anWqZJcc/maxresdefault.jpg"
+    // }
+
+
 ]
